@@ -1,0 +1,15 @@
+
+.main-block{
+    max-width: 900px;
+}
+.mh-content{
+    margin-top: 80px !important;
+}
+
+
+@media (max-width:599px) {
+    .mh-content{
+        margin-top: 260px !important;
+    }
+}
+
